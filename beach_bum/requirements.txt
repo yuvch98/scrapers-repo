@@ -3,7 +3,7 @@ boto3==1.35.90
 botocore==1.35.90
 certifi==2024.12.14
 charset-normalizer==3.4.1
-crawler-scraper-common-by-yuvch==0.4.0
+crawler-scraper-common-by-yuvch
 dnspython==2.7.0
 idna==3.10
 jmespath==1.0.1
